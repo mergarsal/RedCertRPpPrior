@@ -1,0 +1,6 @@
+[submodule "dependences/Rosen_optimization"]
+	path = dependences/Rosen_optimization
+	url = https://github.com/mergarsal/Optimization.git
+[submodule "dependences/iterativeCertifier"]
+	path = dependences/iterativeCertifier
+	url = git@github.com:mergarsal/QCQPIterCertifier.git
